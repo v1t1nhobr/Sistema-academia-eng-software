@@ -1,6 +1,3 @@
-
-# 🏋️ ATLAS — Sistema de Gerenciamento de Academia
-
 ## 🎓 Informações Acadêmicas
 
 | Informação | Descrição |
@@ -14,7 +11,7 @@
 | **Projeto** | Sistema de Gerenciamento de Academia |
 
 ---
-
+# 🏋️ ATLAS — Sistema de Gerenciamento de Academia
 ## 🎯 Objetivos do Projeto
 
 O projeto **Atlas — Sistema de Gerenciamento de Academia** foi desenvolvido com o objetivo de propor uma solução para organizar e gerenciar as principais atividades administrativas de uma academia de ginástica.
