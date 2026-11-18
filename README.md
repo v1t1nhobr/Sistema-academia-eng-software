@@ -47,6 +47,8 @@ A documentação reúne as etapas 2.1 a 2.10 da atividade de Engenharia de Softw
 
 **[📥 Acessar Documentação Word](./Documenta%C3%A7%C3%A3o%20Atividade%20Formativa%20Eng.Soft.docx)**
 
+📕 **[Visualizar Documentação em PDF](./Documentacao_Engenharia_Software.pdf)**
+
 
 ### 🗄️ Script do Banco de Dados
 
