@@ -5,7 +5,7 @@
 | **Instituição** | UniRuy Wyden |
 | **Curso** | Análise e Desenvolvimento de Sistemas |
 | **Disciplina** | Engenharia de Software |
-| **Professor** | MSc. Eng. Heleno Cardoso |
+| **Professor** | Heleno Cardoso |
 | **Aluno** | João Vitor Ferreira da Silva |
 | **Ano** | 2026 |
 | **Projeto** | Sistema de Gerenciamento de Academia |
